@@ -1,1 +1,8 @@
 题目来源：https://www.nowcoder.com/practice/4ab6d198ea8447fe9b6a1cad1f671503?tpId=375&tqId=10737572&sourceUrl=%2Fexam%2Foj
+
+## 问题背景与目标
+- 分析目标：统计 2022 年中，年龄在 18 到 25 岁用户中，按月份统计周杰伦歌曲的播放量（play_pv），并返回每个月播放量排名前 3 的歌曲。
+- 输入表（示例）：
+play_log：记录播放事件，包含 fdate（播放时间）、song_id、user_id 等字段。
+song_info：歌曲元数据，包含 song_id、song_name、singer_name 等字段。
+user_info：用户信息，包含 user_id、age 等字段。
