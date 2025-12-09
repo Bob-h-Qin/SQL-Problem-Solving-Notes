@@ -8,4 +8,5 @@
 [2025/12/05-23年蚂蚁-获取指定客户每月的消费额](https://github.com/Bob-h-Qin/SQL-Problem-Solving-Notes/blob/main/23年蚂蚁-获取指定客户每月的消费额.md)  
 [2025/12/06-23年蚂蚁-查询连续入住多晚的客户信息](https://github.com/Bob-h-Qin/SQL-Problem-Solving-Notes/blob/main/23年蚂蚁-查询连续入住多晚的客户信息.md)  
 [2025/12/07-23年蚂蚁-统计所有课程参加培训人次](https://github.com/Bob-h-Qin/SQL-Problem-Solving-Notes/blob/main/23年蚂蚁-统计所有课程参加培训人次.md)  
-[2025/12/08-23年蚂蚁-查询培训指定课程的员工信息](https://github.com/Bob-h-Qin/SQL-Problem-Solving-Notes/blob/main/23年蚂蚁-查询培训指定课程的员工信息.md)
+[2025/12/08-23年蚂蚁-查询培训指定课程的员工信息](https://github.com/Bob-h-Qin/SQL-Problem-Solving-Notes/blob/main/23年蚂蚁-查询培训指定课程的员工信息.md)  
+[2025/12/09-23年蚂蚁-推荐内容准确的用户平均评分](https://github.com/Bob-h-Qin/SQL-Problem-Solving-Notes/blob/main/23年蚂蚁-推荐内容准确的用户平均评分.md)
